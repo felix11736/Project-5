@@ -1,8 +1,6 @@
 
-![CTRL Z humour geek](https://github.com/felix11736/Project-5/assets/111951543/f88f0971-4641-47ed-a542-7c1865ac1ba1)
+![CTRL Z humour geek](https://github.com/felix11736/Project-5/assets/111951543/f88f0971-4641-47ed-a542-7c1865ac1ba1)![SUP SKSE](https://github.com/felix11736/Project-5/assets/111951543/d424ad15-829e-4cbc-aef3-cb072416b474)
 
-
-![SUP SKSE](https://github.com/felix11736/Project-5/assets/111951543/d424ad15-829e-4cbc-aef3-cb072416b474)
 
 
 KONEKSI DBEAVER
