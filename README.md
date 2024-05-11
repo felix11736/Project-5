@@ -5,8 +5,8 @@
 
 KONEKSI DBEAVER
 
-![Screenshot 2024-05-11 222033](https://github.com/felix11736/Project-5/assets/111951543/2c9559aa-8dcd-47a0-8360-18362812e776)
- ![The all-in-one database tool](https://github.com/felix11736/Project-5/assets/111951543/7b900486-e52a-40bb-98f4-926601ecc45d) 
+![Screenshot 2024-05-11 222033](https://github.com/felix11736/Project-5/assets/111951543/2c9559aa-8dcd-47a0-8360-18362812e776) ![The all-in-one database tool](https://github.com/felix11736/Project-5/assets/111951543/7b900486-e52a-40bb-98f4-926601ecc45d) 
+
 
 
 
