@@ -1,15 +1,19 @@
-![PostGIS is a spatial database extender for PostgreSQL object-relational database_ It adds support for geographic objects allowing location queries to be run in SQL_](https://github.com/felix11736/Project-5/assets/111951543/8a3baa67-cf18-4891-9261-705e48fe6de0) ![The all-in-one database tool](https://github.com/felix11736/Project-5/assets/111951543/7b900486-e52a-40bb-98f4-926601ecc45d)
+
+![CTRL Z humour geek](https://github.com/felix11736/Project-5/assets/111951543/f88f0971-4641-47ed-a542-7c1865ac1ba1)
 
 
 ![SUP SKSE](https://github.com/felix11736/Project-5/assets/111951543/d424ad15-829e-4cbc-aef3-cb072416b474)
 
 
 KONEKSI DBEAVER
+
 ![Screenshot 2024-05-11 222033](https://github.com/felix11736/Project-5/assets/111951543/2c9559aa-8dcd-47a0-8360-18362812e776)
+ ![The all-in-one database tool](https://github.com/felix11736/Project-5/assets/111951543/7b900486-e52a-40bb-98f4-926601ecc45d) 
 
 
 
 TAMPILAN SEMUA OUTPUT 
+
 (BEFORE DELETE AFTER UPDATE)
 ![before delete after update](https://github.com/felix11736/Project-5/assets/111951543/f9dff898-5670-4e5e-a6e9-eef30a9bf41b)
 
